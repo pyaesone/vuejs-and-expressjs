@@ -1,0 +1,19 @@
+{
+  "name": "vue_express",
+  "version": "0.0.0",
+  "authors": [
+    "Big Head <innops299@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "~1.0.14",
+    "bootstrap": "~3.3.6"
+  }
+}

@@ -1,0 +1,39 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.list-group-item:hover {
+  background: #eee;
+}
+
+.my-container {
+  margin-bottom: 10px;
+}
+
+.my-btn {
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.delete-btn {
+  position: absolute;
+  right: 15px;
+  top: 10px;
+  display: none;
+}
+
+.list-group-item:hover .delete-btn {
+  display: block;
+}
+
+
+
